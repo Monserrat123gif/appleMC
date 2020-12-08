@@ -1,0 +1,7 @@
+[1106/150130.610:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1108/111437.498:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1108/124919.360:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1108/165822.538:ERROR:file_io.cc(135)] WriteFile: Se está cerrando la canalización. (0xE8)
+[1109/132938.270:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1109/170408.506:ERROR:file_io.cc(135)] WriteFile: Se está cerrando la canalización. (0xE8)
+[1110/122738.185:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
